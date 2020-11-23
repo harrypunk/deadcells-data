@@ -333,7 +333,7 @@
 	"useDPAD": true,
 	"gamepadRumble": true,
 	"lang": null,
-	"curSlot": 1,
+	"curSlot": 0,
 	"modsLocalPath": {},
 	"ignoreModAutoInstall": false,
 	"version": "2020-08-19",
