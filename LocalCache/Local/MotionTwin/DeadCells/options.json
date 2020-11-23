@@ -24,7 +24,7 @@
 	"lightFlashes": true,
 	"screenShakes": true,
 	"stopDodgeOnCliff": true,
-	"foodKind": "carn",
+	"foodKind": "bagu",
 	"musicFolder": "default",
 	"captureMouse": true,
 	"useLegacyFont": false,
