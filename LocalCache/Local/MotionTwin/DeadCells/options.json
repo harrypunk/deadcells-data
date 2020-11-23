@@ -1,7 +1,7 @@
 {
 	"masterVolume": 1,
 	"sfxVolume": 0.8,
-	"musicVolume": 0.8,
+	"musicVolume": 0.0499999999999996,
 	"ambientVolume": 0.8,
 	"showDodgeCd": false,
 	"enemyAnnounce": true,
