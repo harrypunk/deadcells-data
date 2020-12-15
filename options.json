@@ -18,7 +18,7 @@
 	"disableLoreRooms": true,
 	"displayMilliseconds": false,
 	"displaySeed": true,
-	"displayMode": 0,
+	"displayMode": 2,
 	"mute": false,
 	"vsync": true,
 	"lightFlashes": false,
